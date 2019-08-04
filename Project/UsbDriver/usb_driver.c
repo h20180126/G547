@@ -143,5 +143,5 @@ module_init(mydriver_init);
 module_exit(mydriver_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Likhith V");
+MODULE_AUTHOR("Krishna Chaithanya Reddy");
 MODULE_DESCRIPTION("Sending Threshold value of a sensor via USB protocol");
